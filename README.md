@@ -1,4 +1,4 @@
-<b>conky-pywal</b>
+<b>conky-battery</b>
 
 ![alt tag](https://raw.githubusercontent.com/xexpanderx/conky-battery/master/animation.gif)
 

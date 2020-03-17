@@ -3,7 +3,7 @@
 ![alt tag](https://raw.githubusercontent.com/xexpanderx/conky-battery/master/animation.gif)
 
 A conky showing:
-- bATTERY
+- Battery
 
 It changes colors with pywal!
 
